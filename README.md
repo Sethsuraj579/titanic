@@ -47,10 +47,10 @@ titanic/ ├── data/ # Raw and processed datasets
    ```bash
    git clone https://github.com/your-username/titanic.git
    cd titanic
-2.Install dependencies
-  ```bash
+2. Install dependencies
+   ```bash
    pip install -r requirements.txt
-3.Run the notebook
-  ```bash
-  jupyter notebook notebooks/titanic_model.ipynb
+3. Run the notebook
+   ```bash
+   jupyter notebook notebooks/titanic_model.ipynb
 
