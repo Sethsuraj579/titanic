@@ -54,13 +54,3 @@ titanic/ ├── data/ # Raw and processed datasets
   ```bash
   jupyter notebook notebooks/titanic_model.ipynb
 
-
-## 🏁 Future Improvements
-Try other models like XGBoost or LightGBM
-
-Hyperparameter tuning with GridSearchCV
-
-Deploy the model as a web app using Streamlit or Flask
-
-##🙋‍♂️ Author
-Suraj B.Tech CSE @ PRASAD INSTITUTE OF TECHNOLOGY, Jaunpur LinkedIn | Kaggle | GitHub
